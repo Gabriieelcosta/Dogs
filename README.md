@@ -46,7 +46,7 @@ Projeto desenvolvido como parte do curso **React Completo** da [Origamid](https:
 ## 📚 Aprendizados
   Durante o desenvolvimento deste projeto, foram aplicados e reforçados conceitos como:
 
-- **Ciclo de vida de componentes no React.
-- **Gerenciamento de estado com Context API.
-- **Rotas protegidas (Private Routes).
-- **Boas práticas em organização de componentes e estilização.
+- Ciclo de vida de componentes no React.
+- Gerenciamento de estado com Context API.
+- Rotas protegidas (Private Routes).
+- Boas práticas em organização de componentes e estilização.
